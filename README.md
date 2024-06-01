@@ -87,7 +87,7 @@
 </p>
 
 <!-- AI/ML -->
-<h3>AI/ML:</h3>
+<h3>Artificial Intelligence Tools:</h3>
 <p>
     <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40"/>
     <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="OpenCV" width="40" height="40"/>
@@ -95,7 +95,6 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="40" height="40"/>
     <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="40" height="40"/>
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/1a/NumPy_logo.svg" alt="NumPy" width="40" height="40"/>
-    <img src="https://www.vectorlogo.zone/logos/scipy/scipy-icon.svg" alt="SciPy" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/pygsp/pygsp/master/doc/_static/logo.gif" alt="PyGSP" width="40" height="40"/>
     <img src="https://upload.wikimedia.org/wikipedia/commons/8/89/Scikit-learn_logo_small.svg" alt="Scikit" width="40" height="40"/>
     <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Pandas_logo.svg" alt="Pandas" width="40" height="40"/>
@@ -119,11 +118,10 @@
 </p>
 
 <!-- DevOps -->
-<h3>DevOps:</h3>
+<h3>Cloud and DevOps:</h3>
 <p>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/>
     <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="40" height="40"/>
-    <!-- Couldn't find an icon for OpenShift -->
     <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="Docker" width="40" height="40"/>
     <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="Bash" width="40" height="40"/>
     <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="Jenkins" width="40" height="40"/>
@@ -140,14 +138,30 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="Rails" width="40" height="40"/>
 </p>
 
-<!-- Software -->
-<h3>Software:</h3>
+<!-- Softwares -->
+<h3>Softwares:</h3>
 <p>
-
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Anypoint_Studio_Icon.svg" alt="Anypoint Studio" width="40" height="40"/>
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
-    <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="Sketch" width="40" height="40"/>
+    <span style="background-color: #f0f0f0; padding: 5px; border-radius: 5px;">
+        <a href="https://www.postman.com">
+            <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
+        </a>
+    </span>
+    <span style="background-color: #f0f0f0; padding: 5px; border-radius: 5px;">
+        <a href="https://www.sketch.com">
+            <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="Sketch" width="40" height="40"/>
+        </a>
+    </span>
+    <span style="background-color: #f0f0f0; padding: 5px; border-radius: 5px;">
+        <a href="https://www.mulesoft.com/platform/studio">
+            <img src="https://www.vectorlogo.zone/logos/mulesoft/mulesoft-icon.svg" alt="Anypoint Studio" width="40" height="40"/>
+        </a>
+    <span style="background-color: #f0f0f0; padding: 5px; border-radius: 5px;">
+        <a href="https://code.visualstudio.com/">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="Visual Studio Code" width="40" height="40"/>
+        </a>
+    </span>
 </p>
+
 
 <!-- Other Tools -->
 <h3>Other Tools:</h3>
