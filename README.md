@@ -96,21 +96,8 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="40" height="40"/>
     <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="40" height="40"/>
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/1a/NumPy_logo.svg" alt="NumPy" width="40" height="40"/>
- <a href="https://github.com/pygsp/pygsp">
-        <img src="https://img.shields.io/badge/PyGSP-Library-orange" alt="PyGSP Badge">
-    </a>
-    <a href="https://scikit-learn.org">
-        <img src="https://img.shields.io/badge/Scikit--learn-Library-blue" alt="Scikit-learn Badge">
-    </a>
-    <a href="https://pandas.pydata.org">
-        <img src="https://img.shields.io/badge/Pandas-Library-green" alt="Pandas Badge">
-    </a>
-    <a href="https://www.scipy.org">
-        <img src="https://img.shields.io/badge/SciPy-Library-yellow" alt="SciPy Badge">
-    </a>
-    <a href="https://www.nltk.org">
-        <img src="https://img.shields.io/badge/NLTK-Library-brightgreen" alt="NLTK Badge">
-    </a>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Pytorch_logo.png" alt="PyTorch" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" alt="Pandas" width="40" height="40"/>
 </p>
 
 <!-- Database -->
