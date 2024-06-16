@@ -9,17 +9,17 @@
 </p>
 
 
-- 🔭 I’m currently working on **API Development and Data Analytics**
+🔭 I’m currently working on **API Development and Data Analytics**
 
-- 🌱 I’m currently learning **Large Language Models**
+🌱 I’m currently learning **Large Language Models**
 
-- 💬 Ask me about **Machine Learning,Cloud Computing, API Development, Computer Vision, Transformers, Natural Language Processing, Data Analysis**
+💬 Ask me about **Machine Learning,Cloud Computing, API Development, Computer Vision, Transformers, Natural Language Processing, Data Analysis**
 
-- 📫 How to reach me **mohitsarin26@tamu.edu**
+📫 How to reach me **mohitsarin26@tamu.edu**
 
-- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1PWR1cA36PscNBdLfr8b-JKgwihapBqC2/view?usp=sharing">My Resume</a>
+📄 Know about my experiences <a href="https://drive.google.com/file/d/1PWR1cA36PscNBdLfr8b-JKgwihapBqC2/view?usp=sharing">My Resume</a>
 
-- ⚡ Fun fact **When I'm not buried in bugs, you might find me trying out my jokes on an unsuspecting audience. Yes, I think I can be a part-time stand-up comedian!**
+⚡ Fun fact **When I'm not buried in bugs, you might find me trying out my jokes on an unsuspecting audience. Yes, I think I can be a part-time stand-up comedian!**
 
 <h2>📚 Education</h2>
 <ul>
