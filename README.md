@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mohit Sarin! Welcome to my World 🌍✨</h1>
 <p>
-    <span style="font-size: 24px;">🔌💻 Data Integration, Machine Learning, Cloud professional with 3 years of experience. Currently 🚀 working on projects related to Data Science and LLMs.</span><br>
+    <span style="font-size: 24px;">🔌💻 Data Integration, Machine Learning, Cloud professional with 3 years of full-time experience. Currently 🚀 working on projects related to Data Science and LLMs.</span><br>
 </p>
 <h4 align="left">Connect with me:</h4>
 <p align="left">
