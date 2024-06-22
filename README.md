@@ -11,7 +11,7 @@
 
 🔭 I’m currently working on **API Development and Data Analytics**
 
-🌱 I’m currently learning **Large Language Models**
+🌱 I’m currently learning **AWS and Large Language Models**
 
 💬 Ask me about **Machine Learning,Cloud Computing, API Development, Computer Vision, Transformers, Natural Language Processing, Data Analysis**
 
