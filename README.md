@@ -1,20 +1,4 @@
 <h1 align="center">Hi 👋, I'm Mohit Sarin! Welcome to my World 🌍✨</h1>
-<style>
-    h3 {
-        max-width: 100%; /* Ensures headings don't exceed container width */
-    }
-
-    p {
-        display: flex;
-        flex-wrap: nowrap; /* Prevents items from wrapping to a new line */
-        overflow-x: auto; /* Allows horizontal scrolling if necessary */
-        gap: 20px; /* Adjust the gap between items */
-    }
-
-    p img {
-        flex: 0 0 auto; /* Ensures images keep their original size */
-    }
-</style>
 <p>
     <span style="font-size: 24px;">🔌💻 Data Integration, Machine Learning, Cloud professional with 3 years of full-time experience. Currently working on projects related to Data Science and LLMs.</span><br>
 </p>
