@@ -54,6 +54,7 @@
 <h2 align="left">💻 Languages and Tools</h2>
 <!-- Programming Languages -->
 <h3>Programming Languages:</h3>
+<p>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
     <img src="https://www.vectorlogo.zone/logos/mulesoft/mulesoft-icon.svg" alt="DataWeave" width="40" height="40"/>
@@ -65,6 +66,7 @@
 
 <!-- Frontend Development -->
 <h3>Frontend Development:</h3>
+<p>
     <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
