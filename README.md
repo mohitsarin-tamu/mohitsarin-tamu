@@ -127,15 +127,8 @@
     <img src="https://www.vectorlogo.zone/logos/salesforce/salesforce-icon.svg" alt="Salesforce" width="40" height="40"/>
 </p>
 
-<!-- Framework -->
-<h3>Framework:</h3>
-<p>
-    <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="Rails" width="40" height="40"/>
-</p>
-
 <!-- Softwares -->
-<h3>Softwares:</h3>
+<h3>Softwares & Other Tools:</h3>
 <p>
     <span style="background-color: #f0f0f0; padding: 5px; border-radius: 5px;">
         <a href="https://www.postman.com">
@@ -151,19 +144,17 @@
         <a href="https://www.mulesoft.com/platform/studio">
             <img src="https://www.vectorlogo.zone/logos/mulesoft/mulesoft-icon.svg" alt="Anypoint Studio" width="40" height="40"/>
         </a>
+    </span>
     <span style="background-color: #f0f0f0; padding: 5px; border-radius: 5px;">
         <a href="https://code.visualstudio.com/">
             <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="Visual Studio Code" width="40" height="40"/>
         </a>
     </span>
-</p>
-
-
-<!-- Other Tools -->
-<h3>Other Tools:</h3>
-<p>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
     <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="40" height="40"/>
 </p>
+
+
+
 
