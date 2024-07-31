@@ -11,7 +11,7 @@
 
 🔭 I’m currently working on **API Development and Data Analytics**
 
-🌱 I’m currently learning **AWS SageMaker and Large Language Models**
+🌱 I’m currently learning **AWS SageMaker and Fine tuning of Large Language Models**
 
 💬 Ask me about **Machine Learning,Cloud Computing, API Development, Computer Vision, Transformers, Natural Language Processing, Data Analysis**
 
@@ -32,7 +32,7 @@
 
 <h2>💼 Professional Experiences</h2>
 <ul>
-  <li><strong>Information Technology - Software Intern</strong> - <a href="https://www.alcon.com/" target="_blank">Alcon</a>, Fort Worth, Texas, US</li>
+  <li><strong>Information Technology - Software Intern</strong> - <a href="https://www.alcon.com/" target="_blank">Alcon</a>, Dallas-Fort Worth, Texas, US</li>
   <li><strong>Graduate Research Student</strong> - <a href="https://tti.tamu.edu/" target="_blank">Texas A&M Transportation Institute</a>, Bryan, Texas, US</li>
   <li><strong>Software Engineer</strong> - <a href="https://www2.deloitte.com/ui/en.html" target="_blank">Deloitte India (Offices of the US)</a>, Hyderabad, India</li>
   <li><strong>Research Intern</strong> - <a href="https://n1labs.org/" target="_blank">National University of Singapore</a>, Singapore</li>
