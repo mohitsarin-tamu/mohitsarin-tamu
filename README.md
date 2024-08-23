@@ -32,6 +32,7 @@
 
 <h2>💼 Professional Experiences</h2>
 <ul>
+  <li><strong>Graduate Student Researcher</strong> - <a href="[https://www.alcon.com/](https://tamids.tamu.edu/labs/op-data-sci/)" target="_blank">Alcon</a>, Dallas-Fort Worth, Texas, US</li>
   <li><strong>Information Technology - Software Intern</strong> - <a href="https://www.alcon.com/" target="_blank">Alcon</a>, Dallas-Fort Worth, Texas, US</li>
   <li><strong>Graduate Research Student</strong> - <a href="https://tti.tamu.edu/" target="_blank">Texas A&M Transportation Institute</a>, Bryan, Texas, US</li>
   <li><strong>Software Engineer</strong> - <a href="https://www2.deloitte.com/ui/en.html" target="_blank">Deloitte India (Offices of the US)</a>, Hyderabad, India</li>
