@@ -9,7 +9,7 @@
 </p>
 
 
-🔭 I’m currently working on **API Development and Data Analytics**
+🔭 I’m currently working on **Data Analytics and Object Tracking**
 
 🌱 I’m currently learning **AWS SageMaker and Fine tuning of Large Language Models**
 
