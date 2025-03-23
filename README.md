@@ -51,11 +51,6 @@
     <li><a href="https://ieeexplore.ieee.org/abstract/document/9004249">Face and Human Detection in Low Light for Surveillance Purposes</a></li>
 </ul>
 
-
-    </span>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
-    <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="40" height="40"/>
 </p>
 
 
